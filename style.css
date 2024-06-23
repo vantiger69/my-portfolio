@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    width: 400px;
+    height: 800px;
+    background-image: url(van.svg);
+    color: white;
+    overflow: hidden;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    margin: 20px;
+    letter-spacing: 1px;
+    align-items: center;
+    
+}
+ul{
+list-style-type: none;
+text-decoration: double;
+font-weight: bolder;
+text-align: center;
+margin: 10px;
+    
+
+    
+}
+ul li{
+
+}
+
+form{
+    color: white;
+    text-align: center;
+    text-decoration: bold;
+    font-weight: 600;
+    font-style: oblique;
+    
+    
+    
+    
+}
+.fb{
+    background-color: grey;
+    border: none;
+    border-radius: 50px;
+    padding: 40px;
+    margin: 70px;
+}
+.fb:hover{
+    background-color: blue;
+}
+.tw{
+    background-color: grey;
+    padding: 40px;
+    border-radius: 50px;
+    border: none;
+    margin: 80px;
+    color: black;
+    
+}
+.tw:hover{
+    background-color: blue;
+}
